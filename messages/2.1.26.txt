@@ -9,7 +9,7 @@
 Anaconda v2.1.26
 ================
 
-Welcome to new anaconda v2.1.26, what can do you find in this minor release?
+Welcome to new anaconda v2.1.26, what can you find in this minor release?
 
 ## Improvements
     - Less CPU intensive approach to detect Sublime Text 3 client on Windows
